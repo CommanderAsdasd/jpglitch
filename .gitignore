@@ -7,3 +7,5 @@ venv/*
 build/*
 dist/*
 *.egg-info/*
+*.mp4
+*DS_store
